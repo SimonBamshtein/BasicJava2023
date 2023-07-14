@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class урок4.Main {
+    public static void main(String[] args) {
+        System.out.println("Конвертор шекель в евро");
+        Scanner sc = new Scanner(System.in);
+        // Считывание числа
+        System.out.println("Введите количество шекелей ");
+        double shek = sc.nextDouble(); // переменная dollars типа double
+        System.out.println("Это составляет: " + shek * 0.25  + " евро.");
+
+    }
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/урок4/arithmetics/arithmetics.iml" filepath="$PROJECT_DIR$/basic_programming/урок4/arithmetics/arithmetics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_6/code/char-practice/char-practice.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_6/code/char-practice/char-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_08/code/code.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_08/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/урок4/homework/homework.iml" filepath="$PROJECT_DIR$/basic_programming/урок4/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_09/homework1/homework1.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_09/homework1/homework1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_12/homework12/homework12.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_12/homework12/homework12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_11/homework_11/homework_11.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_11/homework_11/homework_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_05/hw/hw.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_05/hw/hw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_08/hw1/hw1.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_08/hw1/hw1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_10/hw10/hw10.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_10/hw10/hw10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_6/hw6/hw6.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_6/hw6/hw6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_07/hw_07/hw_07.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_07/hw_07/hw_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_09/les_09.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_09/les_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_05/lesson_05.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_05/lesson_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_07/lesson_07.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_07/lesson_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_08/lesson_08.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_08/lesson_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_10/lesson_10.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_10/lesson_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_11/lesson_11.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_11/lesson_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_12/lesson_12.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_12/lesson_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_13/lesson_13.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_13/lesson_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_14/lesson_14.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_14/lesson_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_15/lesson_15.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_15/lesson_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_6/lesson_6.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_6/lesson_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_6/code/method-example/method-example.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_6/code/method-example/method-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_programming/lesson_6/code/string-practice/string-practice.iml" filepath="$PROJECT_DIR$/basic_programming/lesson_6/code/string-practice/string-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+    </modules>
+  </component>
+</project>

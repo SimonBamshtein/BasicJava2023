@@ -1,0 +1,21 @@
+import java.io.*;
+public class Main {
+    public static void main(String[] args) throws IOException {
+        System.out.println(“Привет, чтобы вычислить периметр и площадь прмоугольника следуйте инстркциям ниже: “); // это для вывода на консоль (на печать) приветствия
+//        Reader inputStreamReader = new InputStreamReader(System.in); // готовим ввод с клавиатуры
+//        BufferedReader bufferedReader = new BufferedReader(inputStreamReader); // готовим ввод с клавиатуры
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); // вводимые значения попадвют в br
+        System.out.println(“Введите длину прямоугольника: “); // Это приглашение к вводу
+        String long1 = br.readLine(); //читаем строку с клавиатуры в переменную long1
+        System.out.println(“Вы ввели ” + long1 + ” - это длина вашего прямоугольника“); // Это сообщение пользователю
+        int l1 = Integer.parseInt(long1); //преобразовываем строку в число.
+        System.out.println(“Введите ширину прямоугольника: “); // Это приглашение к вводу
+        String hight2 = br.readLine(); //читаем строку с клавиатуры
+        System.out.println(“Вы ввели ” + hight2 + ” - это ширина вашего прямоугольника“); // Это сообщение пользователю
+        int h1 = Integer.parseInt(hight2); //преобразовываем строку в число.
+        int t1 = 2;
+        System.out.println(” Ширина прямоугольника  ” + l1 + ” сложить с длиной прямоугольника ” + h1 + ” и умножить на 2" + ” получилось ” + (t1 * (l1 + h1)) + ” - это периметр вашего прямоугольника” );
+        System.out.println(” Ширина прямоугольника  ” + l1 + ” умножить на длину прямоугольника ” + h1 + ” получилось ” + (l1 * h1) + ” - это площадь вашего прямоугольника” );
+        System.out.println(“Спасибо!“);
+    }
+}
